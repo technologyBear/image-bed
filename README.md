@@ -1,6 +1,7 @@
 # image-bed
 #### PicX
 - PicX 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。
+- 根据说明文档基本很顺利（地址：https://picx.xpoet.cn/#/tutorials）
 #### 具体使用 
 - 在github上创建一个仓库（仓库必须是公开的）
 - github  我的头像->setting->Developer settings
